@@ -67,7 +67,7 @@ Permite buscar Pokémon por **nome** ou **número** e navegar entre eles com bot
 
 ---
  ## 📌 Créditos
- - Este projeto foi baseado no tutorial do [Manual do Dev](https://www.youtube.com/watch?v=SjtdH3dWLa8&list=PLEDG_KMv245RYRmmca9kmFmiGsVo3Cns7&index=2)
+ - Este projeto foi baseado no tutorial do [Manual do Dev](https://www.youtube.com/watch?v=SjtdH3dWLa8)
  no YouTube.
 - Repositório recriado apenas para fins de estudo.
  
