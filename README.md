@@ -1,7 +1,6 @@
 # 🕹️ Pokédex
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Tech](https://img.shields.io/badge/feito%20com-HTML%20%7C%20CSS%20%7C%20JS-orange)
 
 Uma **Pokédex interativa** desenvolvida como projeto de estudo, consumindo dados da [PokéAPI](https://pokeapi.co/).  
